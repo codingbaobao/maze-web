@@ -399,28 +399,6 @@
 		}
 	], "tilesets": [
 		{
-			"__cWid": 7,
-			"__cHei": 6,
-			"identifier": "Player",
-			"uid": 3,
-			"relPath": "atlas/SunnyLand-player.png",
-			"embedAtlas": null,
-			"pxWid": 198,
-			"pxHei": 192,
-			"tileGridSize": 32,
-			"spacing": 0,
-			"padding": 0,
-			"tags": [],
-			"tagsSourceEnumUid": null,
-			"enumTags": [],
-			"customData": [],
-			"savedSelections": [],
-			"cachedPixelData": {
-				"opaqueTiles": "000000100000010000001000000100000010000001",
-				"averageColors": "49654965496549650000000000004a65596549654955495449650000585459545854595400000000000049654965496500000000000000005a775a87000000000000000000004965596500000000000000000000"
-			}
-		},
-		{
 			"__cWid": 23,
 			"__cHei": 21,
 			"identifier": "Environment",
